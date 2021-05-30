@@ -1,4 +1,1 @@
-It is simple food order application
-It retrieve the food photo, name, and price from firebase.
-And if you ordered something then it save that order in your phone data using room database and database you can also delete the order.
-Internet is required for the app.
+
