@@ -1,2 +1,4 @@
-
-![text](https://user-images.githubusercontent.com/69110669/120098723-26119700-c155-11eb-8a75-25d6aed60964.jpg)
+It is a Simple Food order application
+It retrieves the food data like Name, Price and Image form firebase
+and if you ordered something It adds that food to order book using Room Database
+It required internet otherwise it show a dialog.
